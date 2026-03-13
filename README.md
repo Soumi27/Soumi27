@@ -9,22 +9,30 @@ Currently focusing on **web development, backend systems, and database-driven ap
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-**Languages**  
-Java | Python | JavaScript | SQL | PHP  
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 
-**Web Development**  
-HTML | CSS | Node.js | Express.js | REST APIs  
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-FF7043?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-42A5F5?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-66BB6A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-9FA8DA?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases**  
-MySQL | PostgreSQL  
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-29B6F6?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5C6BC0?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools**  
-Git | GitHub | VS Code | Postman  
-
-**Concepts**  
-Object-Oriented Programming (OOP) | DBMS | Backend Development
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-F4511E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7E57C2?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-26C6DA?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF7043?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -89,8 +97,11 @@ Features:
 
 ## 📫 Connect With Me
 
-Email: soumyamishra8793@gmail.com  
-LinkedIn: www.linkedin.com/in/soumi27
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyamishra8793@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C9AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumi27)
+
+[![GitHub](https://img.shields.io/badge/GitHub-8A63D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
 
 ---
 
