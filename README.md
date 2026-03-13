@@ -91,7 +91,6 @@ Features:
 - 🥈 2nd Place – Code Carnival 2026  
 - 🥈 2nd Place – Tech Quiz (C-Googly) 2024  
 - Class Representative  
-- Consistent Academic Performer (Average SGPA 9.5)
 
 ---
 
