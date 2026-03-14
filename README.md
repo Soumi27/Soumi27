@@ -1,7 +1,7 @@
-# Hi, I'm Soumya Mishra 👋
+# Hi, I'm Soumya Mishra 👋🍒
 
 💻 Software Developer | Web Developer | Data Enthusiast  
-🎓 BCA Student at Bharati Vidyapeeth Institute of Management and Entrepreneurship Development  
+🎓 BCA Student at Bharati Vidyapeeth, Institute of Management and Entrepreneurship Development  
 📍 Pune, Maharashtra, India  
 
 I enjoy building practical software systems, backend applications, and data-driven tools.  
@@ -31,8 +31,6 @@ Currently focusing on **web development, backend systems, and database-driven ap
 ### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-F4511E?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-7E57C2?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-26C6DA?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF7043?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -54,10 +52,10 @@ Application to record, categorize, and analyze daily expenses.
 
 ## 📜 Certifications
 
-- Core Java with AI – Internshala (2024)  
-- Programming in Python with AI – Internshala (2025)  
-- SQL for Data Analysts with AI – Internshala (2026)  
-- Full Stack Web Development – Internshala (2023)
+- Core Java with AI  (2024)  
+- Programming in Python with AI   (2025)  
+- SQL for Data Analysts with AI   (2026)  
+- Full Stack Web Development   (2023)
 
 ---
 
