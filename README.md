@@ -1,81 +1,135 @@
-# Hi, I'm Soumya Mishra 👋🍒
+# Hi there 👋 I'm Soumya Mishra
 
-💻 Software Developer | Web Developer | Data Enthusiast  
-🎓 BCA Student at Bharati Vidyapeeth, Institute of Management and Entrepreneurship Development  
-📍 Pune, Maharashtra, India  
+🎓 Final-Year BCA Student | 💻 Aspiring Software Engineer | 🚀 Backend & Full Stack Developer
 
-I enjoy building practical software systems, backend applications, and data-driven tools.  
-Currently focusing on **web development, backend systems, and database-driven applications.**
+I'm a final-year Bachelor of Computer Applications student at IMED, Bharati Vidyapeeth University, Pune, with a CGPA of 9.5/10. I enjoy building scalable web applications, designing databases, solving coding problems, and learning new technologies.
+
+## 🌟 About Me
+
+- 🎓 BCA Student (2023–2026)
+- 🏆 Merit Scholarship Recipient
+- 👩‍💼 Class Representative (2023–2026)
+- 💻 Passionate about Software Development & Backend Engineering
+- 📚 Currently learning Spring Boot, React.js, JWT/OAuth2, and Advanced DSA
+- 🎯 Seeking Software Engineering Internships and Entry-Level Roles
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4DB6AC?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-FF7043?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-42A5F5?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-66BB6A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-9FA8DA?style=for-the-badge&logo=express&logoColor=white)
+### Backend & Web
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-29B6F6?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5C6BC0?style=for-the-badge&logo=postgresql&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-F4511E?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7E57C2?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### AWSM – Asset Workstation Smart Monitoring  (Feb - March 2026)
-Node.js, Express.js, PostgreSQL
-QR-based asset monitoring system used to manage 3500+ institutional assets with role-based authentication and reporting.
-
-### StayMate – Accommodation Management System  (Dec - Feb 2026)
-PHP, MySQL
-Web application to manage accommodation listings and tenant records.
-
-### Expense Tracker (October 2025)
-Python
-Application to record, categorize, and analyze daily expenses.
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Projects
 
-- Core Java with AI  (2024)  
-- Programming in Python with AI   (2025)  
-- SQL for Data Analysts with AI   (2026)  
-- Full Stack Web Development   (2023)
+### 📦 AWSM - Asset Workstation Smart Monitoring System
+A centralized asset tracking platform managing 3500+ institutional assets.
+
+**Tech Stack:** Node.js, Express.js, PostgreSQL, REST APIs, QR Code Integration
+
+✨ Features:
+- Asset lifecycle management
+- Role-Based Access Control (RBAC)
+- QR-based asset identification
+- Automated reporting
+- Normalized PostgreSQL database
+
+---
+
+### 🏠 StayMate - Accommodation Management System
+
+A multi-role property management platform for landlords and tenants.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS
+
+✨ Features:
+- Property listings
+- Booking management
+- Tenant profiles
+- CRUD operations
+- Responsive design
+
+---
+
+### 💰 Expense Tracker
+
+Personal finance tracking application with expense categorization and monthly summaries.
+
+**Tech Stack:** Python, HTML, CSS
+
+✨ Features:
+- Expense categorization
+- Monthly reports
+- Persistent data storage
+- Financial insights
+
+---
+
+## 📚 Currently Learning
+
+```text
+🌱 Spring Boot
+🌱 React.js
+🌱 JWT Authentication
+🌱 OAuth2
+🌱 Data Structures & Algorithms
+🌱 System Design Fundamentals
+```
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner – QueryXplode (C-Googly) 2025  
-- 🥈 Ist Runner Up – Code Carnival 2026  
-- 🥈 1st Runner Up – Tech Quiz (C-Googly) 2024  
-- Class Representative  
+🥇 1st Place - QueryXplode (C-Googly 2025)
+
+🥈 Runner-Up - Code Carnival 2026
+
+🎖 Dr. Patangrao Kadam Merit Scholarship (2025-26)
+
+👑 Miss BCA Award
+
+👩‍💼 Elected Class Representative for 3 Consecutive Years
 
 ---
 
-## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyamishra8793@gmail.com)
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C9AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumi27)
+📧 Email: soumyamishra8793@gmail.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-8A63D2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+💼 LinkedIn: https://www.linkedin.com/in/soumi27/
+
+🌐 Portfolio: https://soumi27.github.io/
+
+🐙 GitHub: https://github.com/Soumi27
 
 ---
 
-⭐ Always open to collaboration and learning new technologies.
+### ✨ Fun Fact
+
+I love turning ideas into software, solving challenging problems, and continuously learning new technologies. Every project is a new adventure in building something meaningful. 🚀
