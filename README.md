@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Soumya Mishra
 
-🎓 Final-Year BCA Student | 💻 Aspiring Software Engineer | 🚀 Backend & Full Stack Developer
+🎓 BCA Graduate | 💻 Aspiring Software Engineer | 🚀 Backend & Full Stack Developer
 
 I'm a final-year Bachelor of Computer Applications student at IMED, Bharati Vidyapeeth University, Pune, with a CGPA of 9.5/10. I enjoy building scalable web applications, designing databases, solving coding problems, and learning new technologies.
 
